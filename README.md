@@ -29,7 +29,7 @@ A comprehensive collection of Deep Learning projects demonstrating a progression
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Core:** `Python`, `NumPy`, `Pandas`
 * **Deep Learning:** `TensorFlow`, `Keras`
@@ -41,7 +41,7 @@ A comprehensive collection of Deep Learning projects demonstrating a progression
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/pakosiek/Python-Deep-Learning-Portfolio.git](https://github.com/pakosiek/Python-Deep-Learning-Portfolio.git)
+    git clone https://github.com/pakosiek/Python-Deep-Learning-Portfolio.git
     ```
 2.  Install dependencies:
     ```bash
